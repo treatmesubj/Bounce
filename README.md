@@ -4,3 +4,5 @@ Uses Windows API to interface with OS and threading to concurrently run multiple
 Audibly greets logged in user and creates an alert window, which bounces around the desktop.
 
 Changes cursor and moves in circle for ~20 seconds.
+
+![alt text](https://github.com/treatmesubj/Bounce/blob/master/Screenshot%20(7).png)
